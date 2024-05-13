@@ -1,0 +1,60 @@
+# Static Stuff
+
+### Frontend
+# Frontend Root Folder /Frontend/akza/
+
+/Frontend/akza/HELP.md
+/Frontend/akza/nbproject/private/
+/Frontend/akza/nbbuild/
+/Frontend/akza/dist/
+/Frontend/akza/nbdist/
+/Frontend/akza/.nb-gradle/
+/Frontend/akza/build/
+/Frontend/akza/!**/src/main/**/build/
+/Frontend/akza/!**/src/test/**/build/
+/Frontend/akza/.vscode/
+/Frontend/akza/.vscode/*
+/Frontend/akza/!.vscode/settings.json
+/Frontend/akza/!.vscode/tasks.json
+/Frontend/akza/!.vscode/launch.json
+/Frontend/akza/!.vscode/extensions.json
+/Frontend/akza/.history/*
+/Frontend/akza/tmp
+/Frontend/akza/out-tsc
+/Frontend/akza/bazel-out
+/Frontend/akza/node_modules
+/Frontend/akza/npm-debug.log
+/Frontend/akza/yarn-error.log
+/Frontend/akza/.angular/cache
+/Frontend/akza/.sass-cache/
+/Frontend/akza/connect.lock
+/Frontend/akza/coverage
+/Frontend/akza/libpeerconnection.log
+/Frontend/akza/testem.log
+/Frontend/akza/typings
+/Frontend/akza/.editorconfig
+/Frontend/akza/.browserslistrc
+
+### Backend
+# Backend Root Folder /Backend/akza/
+
+/Backend/akza/target/
+/Backend/akza/!.mvn/wrapper/maven-wrapper.jar
+/Backend/akza/!**/src/main/**/target/
+/Backend/akza/!**/src/test/**/target/
+/Backend/akza/.apt_generated
+/Backend/akza/.classpath
+/Backend/akza/.factorypath
+/Backend/akza/.project
+/Backend/akza/.settings
+/Backend/akza/.springBeans
+/Backend/akza/.sts4-cache
+/Backend/akza/.idea
+/Backend/akza/*.iws
+/Backend/akza/*.iml
+/Backend/akza/*.ipr
+/Backend/akza/.c9/
+/Backend/akza/*.launch
+/Backend/akza/*.sublime-workspace
+/Backend/akza/.DS_Store
+/Backend/akza/Thumbs.db
