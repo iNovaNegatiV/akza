@@ -72,10 +72,10 @@
           "builder": "@angular-devkit/build-angular:dev-server",
           "configurations": {
             "production": {
-              "browserTarget": "akza:build:production"
+              "buildTarget": "akza:build:production"
             },
             "development": {
-              "browserTarget": "akza:build:development"
+              "buildTarget": "akza:build:development"
             }
           },
           "defaultConfiguration": "development"
@@ -83,7 +83,7 @@
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "akza:build"
+            "buildTarget": "akza:build"
           }
         },
         "test": {
